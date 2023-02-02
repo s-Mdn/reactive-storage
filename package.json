@@ -1,0 +1,35 @@
+{
+  "name": "reactive-storage",
+  "version": "1.0.0",
+  "description": "reactive locastorage, only support vue2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "reactive",
+    "locastorage",
+    "vue"
+  ],
+  "author": "Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axios/axios/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/axios/axios.git"
+  },
+  "homepage": "https://axios-http.com",
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "@commitlint/cli": "^17.4.2",
+    "@commitlint/config-conventional": "^17.4.2",
+    "eslint": "^8.33.0",
+    "husky": "^8.0.3",
+    "prettier": "^2.8.3",
+    "typescript": "^4.9.5"
+  }
+}
